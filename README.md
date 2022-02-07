@@ -5,3 +5,9 @@
 
 ## Videos
 
+[Walking](https://youtu.be/wHSh3s8Uc68)
+
+[Jumping](https://youtu.be/LqSfARLMR58)
+
+[Leg demo](https://www.youtube.com/watch?v=xufyeLivXR8)
+
