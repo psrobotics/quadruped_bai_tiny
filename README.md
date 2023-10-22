@@ -21,19 +21,19 @@ Still working on detailed document.
 * /software - Firmware
 
 ## Reducer
-<img src="pic\20210214_000759.jpg" style="zoom:50%;" />
+<img src="pic\20210214_000759.jpg" width="480" />
 
 ## Leg Assembly
-<img src="pic\20210215_130136.jpg" style="zoom:50%;" />
+<img src="pic\20210215_130136.jpg" width="480" />
 
 ## Body Assembly
-<img src="pic\20210404_004857.jpg" style="zoom:50%;" />
+<img src="pic\20210404_004857.jpg" width="480" />
 
 ## Motor Driver
-<img src="pic\sub_d.jpg" style="zoom:50%;" />
+<img src="pic\sub_d.jpg" width="480" />
 
 ## Main Controller
-<img src="pic\20210401_174126.jpg" style="zoom:50%;" />
+<img src="pic\20210401_174126.jpg" width="480" />
 
 ## License
 MIT License
