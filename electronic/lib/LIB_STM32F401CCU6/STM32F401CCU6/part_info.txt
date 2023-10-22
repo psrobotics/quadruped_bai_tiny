@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32F401CCU6
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=49
+Version=2.1
+Released=2015-07-24 04:27:47
+Downloaded=2021-07-19 06:06:47
+3D=Y

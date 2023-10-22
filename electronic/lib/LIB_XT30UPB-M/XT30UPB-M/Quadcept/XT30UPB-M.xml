@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/13722972/455385/2.49/2/3/Connector/-->
+<quadcept_library>
+  <setting unit="mil" />
+  <textstyle name="Default" height="47.244094488189" strokewidth="7.8740157480315" charwidth="47.244094488189" />
+  <textstyle name="Dimension" height="19.6850393700787" strokewidth="0" charwidth="19.6850393700787" />
+  <textstyle name="H127W0635TH00762" height="50" strokewidth="3" charwidth="25" />
+  <textstyle name="H15W15TH02" height="59.0551181102362" strokewidth="7.8740157480315" charwidth="59.0551181102362" />
+  <padstyle name="c270_h180" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="70.866141732283">
+    <padshape layer="TOP" shape="round" width="106.29921259842" height="106.29921259842" />
+    <padshape layer="TOP_SOLDER_MASK" shape="round" width="114.17322834646" height="114.17322834646" />
+    <padshape layer="INNER" shape="round" width="106.29921259842" height="106.29921259842" />
+    <padshape layer="BOTTOM" shape="round" width="106.29921259842" height="106.29921259842" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="round" width="114.17322834646" height="114.17322834646" />
+  </padstyle>
+  <padstyle name="s270_h180" surface="False" plated="True" isvia="False" nopaste="True" nomask="True" complex="False" holesize="70.866141732283">
+    <padshape layer="TOP" shape="square" width="106.29921259842" height="106.29921259842" />
+    <padshape layer="TOP_SOLDER_MASK" shape="square" width="114.17322834646" height="114.17322834646" />
+    <padshape layer="INNER" shape="round" width="106.29921259842" height="106.29921259842" />
+    <padshape layer="BOTTOM" shape="square" width="106.29921259842" height="106.29921259842" />
+    <padshape layer="BOTTOM_SOLDER_MASK" shape="square" width="114.17322834646" height="114.17322834646" />
+  </padstyle>
+  <footprint name="SHDR2W160P0X500_1X2_1020X520X1070P" originx="0" originy="0" pickpointx="0" pickpointy="0">
+    <pcbpin number="1" name="1" style="s270_h180" originx="0" originy="0" rotation="90" />
+    <pcbpin number="2" name="2" style="c270_h180" originx="196.85039370078" originy="0" rotation="90" />
+    <line layer="TOP_PLACE_BOUND" originx="-112.20472440945" originy="-112.20472440945" endx="-112.20472440945" endy="112.20472440945" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="-112.20472440945" originy="112.20472440945" endx="309.05511811023" endy="112.20472440945" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="309.05511811023" originy="112.20472440945" endx="309.05511811023" endy="-112.20472440945" width="1.9685039370079" />
+    <line layer="TOP_PLACE_BOUND" originx="309.05511811023" originy="-112.20472440945" endx="-112.20472440945" endy="-112.20472440945" width="1.9685039370079" />
+    <line layer="TOP_ASSEMBLY" originx="-102.36220472441" originy="-102.36220472441" endx="-102.36220472441" endy="102.36220472441" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="-102.36220472441" originy="102.36220472441" endx="299.21259842519" endy="102.36220472441" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="299.21259842519" originy="102.36220472441" endx="299.21259842519" endy="-102.36220472441" width="3.9370078740157" />
+    <line layer="TOP_ASSEMBLY" originx="299.21259842519" originy="-102.36220472441" endx="-102.36220472441" endy="-102.36220472441" width="3.9370078740157" />
+    <line layer="TOP_SILKSCREEN" originx="0" originy="-102.36220472441" endx="299.21259842519" endy="-102.36220472441" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="299.21259842519" originy="-102.36220472441" endx="299.21259842519" endy="102.36220472441" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="299.21259842519" originy="102.36220472441" endx="-102.36220472441" endy="102.36220472441" width="7.8740157480314" />
+    <line layer="TOP_SILKSCREEN" originx="-102.36220472441" originy="102.36220472441" endx="-102.36220472441" endy="0" width="7.8740157480314" />
+  </footprint>
+  <symbol name="XT30UPB-M" originx="0" originy="0">
+    <line originx="200" originy="100" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-200" endx="600" endy="100" width="0" />
+    <line originx="600" originy="-200" endx="200" endy="-200" width="0" />
+    <line originx="200" originy="100" endx="200" endy="-200" width="0" />
+    <sympin number="1" originx="200" originy="0" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="0" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="1" />
+      <text name="pindes" originx="140" originy="20" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="1" />
+    </sympin>
+    <sympin number="2" originx="200" originy="-100" rotation="180" length="100" width="7.8740157480315" flipped="False">
+      <text name="pinname" originx="230" originy="-100" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="2" />
+      <text name="pindes" originx="140" originy="-80" style="Default" rotation="0" justify="lowerright" flipped="False" hidden="False" data="2" />
+    </sympin>
+  </symbol>
+  <component name="XT30UPB-M" designatorprefix="J" height="421.25984251968" footprint="SHDR2W160P0X500_1X2_1020X520X1070P">
+    <comppin designator="1" sympin="1" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="1" />
+    <comppin designator="2" sympin="2" pinswap="0" gateswap="0" gate="1" group="1" side="" type="Any" name="2" />
+    <attached_symbol gate="1" name="XT30UPB-M" />
+    <pinmap designator="1" footprintpin="1" />
+    <pinmap designator="2" footprintpin="2" />
+    <text name="Datasheet" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB SPEC.pdf" />
+    <text name="Description" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; Colour: yellow" />
+    <text name="Manufacturer_Name" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="Amass" />
+    <text name="Manufacturer_Part_Number" originx="650" originy="200" style="Default" rotation="0" justify="left" flipped="False" hidden="False" data="XT30UPB-M" />
+    <text name="Mouser Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Mouser Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Part Number" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+    <text name="Arrow Price/Stock" originx="0" originy="0" style="Default" rotation="0" justify="" flipped="False" hidden="True" data="" />
+  </component>
+</quadcept_library>

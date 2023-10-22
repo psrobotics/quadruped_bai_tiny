@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XT30UPB-M
+D Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; Colour: yellow
+K
+F https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf
+$ENDCMP
+#
+#End Doc Library

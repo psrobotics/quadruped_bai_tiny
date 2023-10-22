@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_13722972"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-03-19-11:38:09)
+    (utime 2021-03-19-11:38:09)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "XT30UPB-M")
+)
+
+
+(pinAssign "ECS_13722972"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-03-19-11:38:09)
+    (utime 2021-03-19-11:38:09)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_13722972")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "XT30UPB-M")
+)
+
+
+(part "XT30UPB-M"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-03-19-11:38:09)
+    (utime 2021-03-19-11:38:09)
+    (packageRef "XT30UPB-M")
+    (pinAssignRef "ECS_13722972")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; Colour: yellow")
+    (property "Manufacturer_Name" "Amass")
+    (property "Manufacturer_Part_Number" "XT30UPB-M")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf")
+    (property "compAreaTopHeight" 10.7)
+)
+
+

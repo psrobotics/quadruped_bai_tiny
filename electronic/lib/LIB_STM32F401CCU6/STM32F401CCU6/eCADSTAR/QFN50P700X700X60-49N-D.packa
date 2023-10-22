@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STM32F401CCU6"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-01-15-15:25:17)
+    (mountForm default
+        (footprintRef "QFN50P700X700X60-49N-D")
+        (spec "System")
+    )
+)

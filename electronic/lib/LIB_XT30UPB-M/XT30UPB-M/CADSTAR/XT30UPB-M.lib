@@ -1,0 +1,18 @@
+.XT30UPB-M :1 ;Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; Colour: yellow
+SHDR2W160P0X500_1X2_1020X520X1070P
+*STM J
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN XT30UPB-M
+~!Manufacturer_Name (Amass)
+~!Manufacturer_Part_Number (XT30UPB-M)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf)
+~!Height (10.7mm)
+~!3D_Model (XT30UPB-M)
+XT30UPB-M
+1.1!U 2.1!U 

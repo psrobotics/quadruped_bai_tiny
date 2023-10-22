@@ -1,0 +1,19 @@
+.STM32F401CCU6 :1 ;32-Bit MCU Cortex-M4 256KB 1.8V UFQFPN48 STMicroelectronics STM32F401CCU6, 32bit ARM Cortex M4 MCU, 84MHz, 256 kB Flash, 48-Pin UFQFPN
+QFN50P700X700X60-49N-D
+*STM IC
+*NGS
+*PLB 1="VBAT" 2="PC13" 3="PC14-OSC32_IN" 4="PC15-OSC32_OUT" 5="PF0-OSC_IN" 6="PF1-OSC_OUT" 7="NRST" 8="VSSA/VREF-" 9="VDDA/VREF+" 10="PA0" 11="PA1" 12="PA2" 13="PA3" 14="PA4" 15="PA5" 16="PA6" 17="PA7" 18="PB0" 19="PB1" 20="PB2" 21="PB10" 22="VCAP1" 23="VSS_1" 24="VDD_1" 25="PB12" 26="PB13" 27="PB14" 28="PB15" 29="PA8" 30="PA9" 31="PA10" 32="PA11" 33="PA12" 34="PA13" 35="VSS_2" 36="VDD_2" 37="PA14" 38="PA15" 39="PB3" 40="PB4" 41="PB5" 42="PB6" 43="PB7" &
+44="BOOT0" 45="PB8" 46="PB9" 47="VSS_3" 48="VDD_3" 49="EP"
+*MXP 49
+*DFN STM32F401CCU6
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STM32F401CCU6)
+~!Mouser Part Number (511-STM32F401CCU6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F401CCU6?qs=DqCdCwOw4%2F5VrOZQxO795A%3D%3D)
+~!Arrow Part Number (STM32F401CCU6)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/stm32f401ccu6/stmicroelectronics?region=nac)
+~!Link Datasheet (http://www.st.com/web/en/resource/technical/document/datasheet/DM00086815.pdf)
+~!Height (0.6mm)
+~!3D_Model (STM32F401CCU6)
+STM32F401CCU6
+1.1!U 2.1!U 3.1!I 4.1!Y 5.1!I 6.1!Y 7.1!I 8.1!G 9.1!P 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!G 24.1!P 36.1!P 35.1!G 34.1!U 33.1!U 32.1!U 31.1!U 30.1!U 29.1!U 28.1!U 27.1!U 26.1!U 25.1!U 49.1!U 48.1!P 47.1!G 46.1!U 45.1!U 44.1!U 43.1!U 42.1!U 41.1!U 40.1!U 39.1!U 38.1!U 37.1!U 

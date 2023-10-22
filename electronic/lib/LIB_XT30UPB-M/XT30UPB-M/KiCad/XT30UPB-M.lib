@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model XT30UPB-M
+#/13722972/455385/2.49/2/3/Connector
+DEF XT30UPB-M J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "XT30UPB-M" 650 200 50 H V L CNN
+F2 "SHDR2W160P0X500_1X2_1020X520X1070P" 650 100 50 H I L CNN
+F3 "https://www.tme.eu/Document/4acc913878197f8c2e30d4b8cdc47230/XT30UPB%20SPEC.pdf" 650 0 50 H I L CNN
+F4 "Socket; DC supply; XT30; male; PIN: 2; on PCBs; THT; Colour: yellow" 650 -100 50 H I L CNN "Description"
+F5 "10.7" 650 -200 50 H I L CNN "Height"
+F6 "Amass" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "XT30UPB-M" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 650 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

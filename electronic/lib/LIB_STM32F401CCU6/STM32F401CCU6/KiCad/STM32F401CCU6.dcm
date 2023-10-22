@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32F401CCU6
+D 32-Bit MCU Cortex-M4 256KB 1.8V UFQFPN48 STMicroelectronics STM32F401CCU6, 32bit ARM Cortex M4 MCU, 84MHz, 256 kB Flash, 48-Pin UFQFPN
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/DM00086815.pdf
+$ENDCMP
+#
+#End Doc Library

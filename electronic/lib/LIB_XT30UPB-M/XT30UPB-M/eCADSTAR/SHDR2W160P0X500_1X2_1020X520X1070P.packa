@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "XT30UPB-M"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-03-19-11:38:09)
+    (mountForm default
+        (footprintRef "SHDR2W160P0X500_1X2_1020X520X1070P")
+        (spec "System")
+    )
+)
